@@ -22,7 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-parthbhuyan.github.io-00fff5?style=for-the-badge&labelColor=0a0a2e)](https://parthbhuyan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2e)](https://www.linkedin.com/in/partha-bhuyan)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a2e)](https://developers.google.com/profile/u/parthbhuyan)
-[![Email](https://img.shields.io/badge/Gmail-parthabhuyan%40myyahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2e)](mailto:parthabhuyan@myyahoo.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2e)](mailto:parthabhuyan@myyahoo.com)
 
 <br>
 
@@ -49,7 +49,7 @@
  ╠══════════════════════════════════════════════════════════════════════╣
  ║  root@cyberlab:~$ whoami                                             ║
  ║  > Cybersecurity Engineer & Full Stack Developer                     ║
- ║  > Location  : Assam, India 🇮🇳                                      ║
+ ║  > Location  : Assam, India                                          ║
  ║  > Education : MCA @ Rajiv Gandhi University                         ║
  ║  > Focus     : PenTest · SecureArch · WebDev · CloudSec              ║
  ║  > Portfolio : parthbhuyan.github.io                                 ║
@@ -57,7 +57,7 @@
  ╠══════════════════════════════════════════════════════════════════════╣
  ║  root@cyberlab:~$ cat mission.txt                                    ║
  ║  > "Building Secure Digital Systems & Scalable Applications"         ║
- ║  > Protect · Build · Innovate · Repeat ♾️                            ║
+ ║  > Protect · Build · Innovate · Repeat                               ║
  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -84,15 +84,15 @@ root@partha:~$ system-status --live
 ║  USER      : Partha Bhuyan                               ║
 ║  ROLE      : Cybersecurity Engineer + Full Stack Dev     ║
 ║  FOCUS     : Ethical Hacking | Secure Architecture       ║
-║  LOCATION  : Assam, India 🇮🇳                            ║
-║  STATUS    : 🟢 ACTIVE — Available for opportunities     ║
+║  LOCATION  : Assam, India                                ║
+║  STATUS    : ACTIVE — Available for opportunities        ║
 ║  MISSION   : Building Secure Digital Systems             ║
 ║  UPTIME    : Since Oct 2022 on GitHub                    ║
 ╚══════════════════════════════════════════════════════════╝
 
 root@partha:~$ ping recruiter
 > Packets sent: 9 certifications, 3 projects, 2 internships
-> Response: ✔ HIRE ME
+> Response: HIRE ME
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -100,7 +100,7 @@ root@partha:~$ ping recruiter
 <br>
 
 <!-- ================================================================== -->
-<!--                         ABOUT ME                                   -->
+<!--                          ABOUT ME                                  -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -128,19 +128,19 @@ class ParthaBhuyan:
 
     def specializations(self):
         return [
-            "🔍 Penetration Testing",
-            "🛡️  Ethical Hacking",
-            "🏗️  Secure Architecture",
-            "🌐 Web App Development",
-            "☁️  Cloud Security",
+            "Penetration Testing",
+            "Ethical Hacking",
+            "Secure Architecture",
+            "Web App Development",
+            "Cloud Security",
         ]
 
     def currently(self):
-        return "Hacking the future... 🚀"
+        return "Hacking the future..."
 
 me = ParthaBhuyan()
 print(me.currently())
-# > Hacking the future... 🚀
+# > Hacking the future...
 ```
 
 </td>
@@ -182,7 +182,7 @@ Currently Working On:
 <br>
 
 <!-- ================================================================== -->
-<!--                      DEVELOPER DNA                                 -->
+<!--                       DEVELOPER DNA                                -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -205,7 +205,7 @@ Currently Working On:
 <br>
 
 <!-- ================================================================== -->
-<!--                       TECH STACK                                   -->
+<!--                        TECH STACK                                  -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -255,7 +255,7 @@ Currently Working On:
 <br>
 
 <!-- ================================================================== -->
-<!--                    CYBERSECURITY LAB                               -->
+<!--                     CYBERSECURITY LAB                              -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -282,16 +282,9 @@ root@partha-lab:~$ security_stack --list-all
 ║  ✔ John the Ripper                ✔ Vulnerability Assessment        ║
 ║  ✔ Aircrack-ng                    ✔ OWASP Top 10 Mitigation         ║
 ║                                                                      ║
-║  CERTIFICATIONS ACTIVE            DOMAINS OF EXPERTISE              ║
-║  ─────────────────────────        ─────────────────────────         ║
-║  ✔ AWS Security Specialty         ✔ Web Application Pentesting      ║
-║  ✔ CISCO Ethical Hacking          ✔ Network Security                ║
-║  ✔ TCS Cybersecurity Analyst      ✔ Cryptography Fundamentals       ║
-║  ✔ Microsoft Cybersecurity        ✔ Social Engineering Defense      ║
-║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  root@partha-lab:~$ status                                           ║
-║  > [████████████████████] SYSTEMS SECURED — THREAT LEVEL: LOW 🟢    ║
+║  > [████████████████████] SYSTEMS SECURED — THREAT LEVEL: LOW       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -300,7 +293,7 @@ root@partha-lab:~$ security_stack --list-all
 <br>
 
 <!-- ================================================================== -->
-<!--                    GITHUB ANALYTICS GOD MODE                       -->
+<!--                   GITHUB ANALYTICS GOD MODE                        -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -309,13 +302,11 @@ root@partha-lab:~$ security_stack --list-all
 
 <br>
 
-<!-- Row 1: Stats + Languages — using reliable public APIs -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthbhuyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d0d23&border_color=00fff5&icon_color=00fff5&title_color=00fff5&text_color=c9d1d9&ring_color=a78bfa&hide_border=false&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthbhuyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d0d23&border_color=00fff5&icon_color=00fff5&title_color=00fff5&text_color=c9d1d9&ring_color=a78bfa&hide_border=false" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhuyan&layout=compact&langs_count=10&theme=tokyonight&bg_color=0d0d23&border_color=00fff5&title_color=00fff5&text_color=c9d1d9&hide_border=false" />
 
 <br><br>
 
-<!-- Row 2: Streak -->
 <img src="https://streak-stats.demolab.com?user=parthbhuyan&theme=tokyonight&background=0d0d23&border=00fff5&ring=00fff5&fire=a78bfa&currStreakLabel=00fff5&sideLabels=c9d1d9&dates=888888&sideNums=ffffff&currStreakNum=00fff5&hide_border=false" width="60%" />
 
 <br><br>
@@ -346,7 +337,6 @@ root@partha-lab:~$ security_stack --list-all
 
 ### 🏆 GitHub Trophy Showcase
 
-<!-- Using radical theme which is known stable, no-frame avoids border loading issues -->
 <img src="https://github-profile-trophy.vercel.app/?username=parthbhuyan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
 
 </div>
@@ -356,7 +346,7 @@ root@partha-lab:~$ security_stack --list-all
 <br>
 
 <!-- ================================================================== -->
-<!--                      AI RESEARCH TABLE                             -->
+<!--                       AI RESEARCH TABLE                            -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -376,7 +366,7 @@ root@partha-lab:~$ security_stack --list-all
 <br>
 
 <!-- ================================================================== -->
-<!--                    FEATURED PROJECTS                               -->
+<!--                      FEATURED PROJECTS                             -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -442,7 +432,7 @@ Cutting-edge research on ultra-efficient AI processing for resource-constrained 
 <br>
 
 <!-- ================================================================== -->
-<!--                      CERTIFICATIONS                                -->
+<!--                       CERTIFICATIONS                               -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -471,7 +461,7 @@ Cutting-edge research on ultra-efficient AI processing for resource-constrained 
 <br>
 
 <!-- ================================================================== -->
-<!--                   EXPERIENCE & EDUCATION                           -->
+<!--                    EXPERIENCE & EDUCATION                          -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -487,19 +477,19 @@ Cutting-edge research on ultra-efficient AI processing for resource-constrained 
 ║           WORK EXPERIENCE              ║   ║            EDUCATION               ║
 ╠════════════════════════════════════════╣   ╠════════════════════════════════════╣
 ║                                        ║   ║                                    ║
-║  📱 Mobile App Dev Intern              ║   ║  🎓 Master of Computer Application ║
-║     NIELIT, Tezpur, Assam              ║   ║     Rajiv Gandhi University         ║
-║     Apr 2025 - May 2025                ║   ║     Arunachal Pradesh               ║
-║     > Work Based Learning Level-1     ║   ║     2023 - 2025                    ║
-║     > Ministry of Electronics & IT   ║   ║                                    ║
-║                                        ║   ║  🎓 Bachelor of Computer Application║
-║  🔐 Cyber Security Intern             ║   ║     Gauhati University              ║
-║     Nandanam, Chennai                  ║   ║     Jalukbari, Guwahati            ║
-║     Jan 2024 - July 2024               ║   ║     2019 - 2022                    ║
-║     > Digital Defense Operations      ║   ║                                    ║
-║     > Penetration Testing Research    ║   ║  📚 Intermediate: Commerce         ║
-║     > Enterprise Asset Safeguarding   ║   ║     Govt. Boys H.S. School         ║
-║                                        ║   ║     Nagaon, Assam (2017-2019)      ║
+║  Mobile App Dev Intern                 ║   ║  Master of Computer Application    ║
+║  NIELIT, Tezpur, Assam                 ║   ║  Rajiv Gandhi University            ║
+║  Apr 2025 - May 2025                   ║   ║  Arunachal Pradesh                  ║
+║  > Work Based Learning Level-1        ║   ║  2023 - 2025                       ║
+║  > Ministry of Electronics & IT      ║   ║                                    ║
+║                                        ║   ║  Bachelor of Computer Application  ║
+║  Cyber Security Intern                 ║   ║  Gauhati University                ║
+║  Nandanam, Chennai                     ║   ║  Jalukbari, Guwahati               ║
+║  Jan 2024 - July 2024                  ║   ║  2019 - 2022                       ║
+║  > Digital Defense Operations         ║   ║                                    ║
+║  > Penetration Testing Research       ║   ║  Intermediate: Commerce            ║
+║  > Enterprise Asset Safeguarding      ║   ║  Govt. Boys H.S. School            ║
+║                                        ║   ║  Nagaon, Assam (2017-2019)         ║
 ╚════════════════════════════════════════╝   ╚════════════════════════════════════╝
 ```
 
@@ -510,25 +500,25 @@ Cutting-edge research on ultra-efficient AI processing for resource-constrained 
 <br>
 
 <!-- ================================================================== -->
-<!--                    CONTRIBUTION SNAKE                              -->
+<!--          CONTRIBUTION SNAKE — GIF (ALWAYS RENDERS ON GITHUB)       -->
 <!-- ================================================================== -->
 
 <div align="center">
 
 ## 🐍 `< CONTRIBUTION SNAKE />`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
+<br>
+
+![snake animation](https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake.gif)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br>
 
 <!-- ================================================================== -->
-<!--                     LIVE CODING ACTIVITY                           -->
+<!--                      LIVE CODING ACTIVITY                          -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -540,12 +530,12 @@ Cutting-edge research on ultra-efficient AI processing for resource-constrained 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-> ⚙️ *Auto-updated via GitHub Actions — [Setup activity feed](https://github.com/jamesgeorge007/github-activity-readme)*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br>
 
 <!-- ================================================================== -->
-<!--                    DEVELOPER MODE / FUN                            -->
+<!--                       DEVELOPER MODE                               -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -567,10 +557,10 @@ while (alive) {
 }
 
 // Output:
-// > Coffee consumed: ∞ cups
+// > Coffee consumed: Infinity
 // > Bugs fixed: countless
 // > Systems secured: many
-// > Passion level: OVER 9000 🔥
+// > Passion level: OVER 9000
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -578,7 +568,7 @@ while (alive) {
 <br>
 
 <!-- ================================================================== -->
-<!--                       HACKER'S WISDOM                              -->
+<!--                      SECURITY PHILOSOPHY                           -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -604,25 +594,25 @@ while (alive) {
 <br>
 
 <!-- ================================================================== -->
-<!--                         SUPPORT                                    -->
+<!--                          SUPPORT                                   -->
 <!-- ================================================================== -->
 
 <div align="center">
 
 ## ☕ `< SUPPORT MY WORK />`
 
-If you find my work useful, please consider:
+<br>
 
 [![Star Repos](https://img.shields.io/badge/⭐_Star_my_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/parthbhuyan?tab=repositories)
-[![Follow](https://img.shields.io/badge/👨‍💻_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthbhuyan)
-[![Share](https://img.shields.io/badge/🚀_Share_my_Projects-00fff5?style=for-the-badge&logoColor=black)](https://github.com/parthbhuyan)
+[![Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthbhuyan)
+[![Share](https://img.shields.io/badge/Share_my_Projects-00fff5?style=for-the-badge&logoColor=black)](https://github.com/parthbhuyan)
 
 </div>
 
 <br>
 
 <!-- ================================================================== -->
-<!--                        CONNECT                                     -->
+<!--                          CONNECT                                   -->
 <!-- ================================================================== -->
 
 <div align="center">
@@ -656,10 +646,9 @@ If you find my work useful, please consider:
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20secure%20technology%20together%20%F0%9F%9A%80&fontSize=18&fontColor=00fff5&animation=twinkling&fontAlignY=70&desc=Stay%20Curious.%20Stay%20Secure.%20Keep%20Hacking.&descColor=a78bfa&descSize=14&descAlignY=88" width="100%" />
 
-<!-- AUTO-INCREMENTING YEAR VIA SHIELDS.IO DYNAMIC BADGE -->
 <div align="center">
 
-**`> END OF TRANSMISSION — PARTHA BHUYAN`** &nbsp; ![Year](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthbhuyan&query=%24.created_at&label=Since&color=00fff5&style=flat-square&prefix=GitHub+Since+)
+**`> END OF TRANSMISSION — PARTHA BHUYAN`**
 
 ![Security](https://img.shields.io/badge/Security-First-00fff5?style=flat-square&logo=hackthebox&logoColor=black)
 ![Made with Love](https://img.shields.io/badge/Made_with-Love_and_Coffee-a78bfa?style=flat-square)
@@ -667,16 +656,3 @@ If you find my work useful, please consider:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=parthbhuyan.parthbhuyan&left_color=0a0a2e&right_color=00fff5)
 
 </div>
-
-<!-- ================================================================== -->
-<!-- GITHUB ACTIONS SETUP GUIDE (DELETE THIS SECTION AFTER READING)     -->
-<!--                                                                    -->
-<!-- 1. SNAKE ANIMATION — create .github/workflows/snake.yml            -->
-<!--    Workflow: https://github.com/Platane/snk                        -->
-<!--                                                                    -->
-<!-- 2. LIVE ACTIVITY FEED — create .github/workflows/update-activity.yml -->
-<!--    Workflow: https://github.com/jamesgeorge007/github-activity-readme -->
-<!--                                                                    -->
-<!-- 3. METRICS DASHBOARD — visit https://metrics.lecoq.io              -->
-<!--    Generate your personal metrics image there                      -->
-<!-- ================================================================== -->
