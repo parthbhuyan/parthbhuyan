@@ -1,249 +1,261 @@
 <div align="center">
 
-<!-- CYBERPUNK BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=PARTHA%20BHUYAN&fontSize=70&color=0:0d0221,50:0a3d62,100:00fff5&stroke=00fff5&strokeWidth=2&fontColor=00fff5&animation=fadeIn&desc=CYBERSECURITY%20%7C%20FULL%20STACK%20%7C%20ETHICAL%20HACKER&descSize=22&descAlignY=75&descColor=c084fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Partha%20Bhuyan&fontSize=52&fontColor=E2E8F0&fontAlign=50&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Ethical%20Hacker&descSize=16&descColor=94A3B8&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=500&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%5BROOT%40PARTHA-LAB+~%5D%24+whoami;Cybersecurity+Engineer+%7C+Ethical+Hacker;Full+Stack+Developer+%7C+Secure+Systems+Architect;Building+Secure+Digital+Systems+%26+Scalable+Apps+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
 
-</div>
-
-<!-- MATRIX DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- QUICK BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-parthbhuyan.github.io-00fff5?style=for-the-badge&labelColor=0d0221&color=00fff5)](https://parthbhuyan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Partha_Bhuyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://linkedin.com/in/partha-bhuyan)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d0221)](https://developers.google.com/profile/u/parthbhuyan)
-[![Email](https://img.shields.io/badge/Email-parthabhuyan@myyahoo.com-purple?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=0d0221)](mailto:parthabhuyan@myyahoo.com)
-[![Visitors](https://komarev.com/ghpvc/?username=parthbhuyan&label=👁%20PROFILE+VIEWS&color=00fff5&style=for-the-badge&labelColor=0d0221)](https://github.com/parthbhuyan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=600&lines=Securing+systems+%E2%80%94+one+vulnerability+at+a+time.;Building+full-stack+apps+with+security-first+thinking.;MCA+%40+Rajiv+Gandhi+University+%C2%B7+Assam%2C+India.;Open+to+opportunities+%C2%B7+Let%27s+build+something+great.)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1E293B?style=flat-square&logo=safari&logoColor=818CF8)](https://parthbhuyan.github.io/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=818CF8)](https://linkedin.com/in/partha-bhuyan)&nbsp;
+[![Google Dev](https://img.shields.io/badge/-Google%20Developer-1E293B?style=flat-square&logo=google&logoColor=818CF8)](https://developers.google.com/profile/u/parthbhuyan)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-1E293B?style=flat-square&logo=yahoo&logoColor=818CF8)](mailto:parthabhuyan@myyahoo.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=parthbhuyan&style=flat-square&color=818CF8&label=Profile+Views&labelColor=1E293B)](https://github.com/parthbhuyan)
+
+</div>
+
+<br>
 
 ---
 
-<!-- ABOUT ME TERMINAL -->
-<div align="left">
+### `$ whoami`
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║                  [ PARTHA BHUYAN // OPERATOR FILE ]             ║
-╠══════════════════════════════════════════════════════════════════╣
-║  [ROOT@PARTHA-LAB ~]$ cat about.txt                             ║
-║                                                                  ║
-║  > Name        : Partha Bhuyan                                   ║
-║  > Location    : Rupahi, Nagaon, Assam 🇮🇳                       ║
-║  > Role        : Cybersecurity Engineer + Full Stack Dev         ║
-║  > Clearance   : Ethical Hacker // Pen Tester // Architect       ║
-║  > Education   : MCA @ Rajiv Gandhi University (2023–2025)       ║
-║  > Languages   : English | Hindi | Assamese | Bengali            ║
-║  > Hobbies     : Travelling | Reading | Writing | Cooking        ║
-║  > Status      : [ ██████████ ] ACTIVELY HACKING... (legally)   ║
-║                                                                  ║
-║  > Mission     : Secure the web. One vulnerability at a time.   ║
-╚══════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-<!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> `>> TECH STACK DASHBOARD`
-
-<div align="center">
-
-### ⚔️ CYBERSECURITY ARSENAL
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-EXPERT-00fff5?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0221)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-CERTIFIED-c084fc?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0221)
-![Digital Defense](https://img.shields.io/badge/Digital_Defense-ACTIVE-ff0055?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d0221)
-![Secure Architecture](https://img.shields.io/badge/Secure_Architecture-ADVANCED-00fff5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0221)
-![Linux](https://img.shields.io/badge/Linux-MASTER-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0221)
-
-### 💻 PROGRAMMING LANGUAGES
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0221)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0221)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0221)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d0221)
-
-### 🌐 WEB DEVELOPMENT
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0221)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0221)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d0221)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0221)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d0221)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0221)
-
-### ☁️ CLOUD & DEVOPS
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0d0221)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-AWS_Certified-00fff5?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0221)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d0221)
-
-</div>
-
----
-
-<!-- GITHUB ANALYTICS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> `>> GITHUB ANALYTICS CORE`
-
-<div align="center">
-
-<a href="https://github.com/parthbhuyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthbhuyan&show_icons=true&theme=radical&bg_color=0d0221&title_color=00fff5&icon_color=c084fc&text_color=ffffff&border_color=00fff5&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhuyan&layout=compact&theme=radical&bg_color=0d0221&title_color=00fff5&text_color=ffffff&border_color=00fff5&border_radius=10&langs_count=8"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthbhuyan&theme=radical&background=0d0221&border=00fff5&ring=c084fc&fire=ff0055&currStreakLabel=00fff5&sideLabels=ffffff&dates=888888&sideNums=c084fc&currStreakNum=00fff5)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Partha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthbhuyan&bg_color=0d0221&color=00fff5&line=c084fc&point=ff0055&area=true&area_color=c084fc&border_color=00fff5&title_color=00fff5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 `>> ACHIEVEMENT UNLOCKED`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=parthbhuyan&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-## 🎖️ `>> CERTIFICATIONS & CLEARANCES`
-
-<div align="center">
-
-![AWS Security](https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0221)
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0221)
-![TCS](https://img.shields.io/badge/TCS-Cybersecurity_Analyst-00fff5?style=for-the-badge&logo=tata&logoColor=white&labelColor=0d0221)
-![Microsoft](https://img.shields.io/badge/Microsoft-Career_Essentials_Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d0221)
-![CISCO](https://img.shields.io/badge/CISCO-Ethical_Hacking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0221)
-![Google](https://img.shields.io/badge/Google-Analytics_Certified-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=0d0221)
-![Indian Army](https://img.shields.io/badge/Indian_Army-Cyber_Hackathon_2021-006400?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d0221)
-![Infosys](https://img.shields.io/badge/Infosys-Springboard_AWS_Security-0070AD?style=for-the-badge&logo=infosys&logoColor=white&labelColor=0d0221)
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 `>> CLASSIFIED PROJECTS`
-
-<div align="center">
-
-| 🔐 PROJECT | 📋 DESCRIPTION | 🛠️ STACK | 🔗 LINK |
-|:---:|:---|:---:|:---:|
-| **🌱 GreenGen** | Blockchain-powered waste management platform revolutionizing eco-infrastructure | `Blockchain` `React` `Node.js` `MySQL` | [![Repo](https://img.shields.io/badge/REPO-00fff5?style=flat-square&logo=github&logoColor=black)](https://github.com/parthbhuyan) |
-| **🌿 Medicinal Herb Detection** | ML-powered plant identification system using computer vision & deep learning | `Python` `TensorFlow` `OpenCV` `React` | [![Repo](https://img.shields.io/badge/REPO-c084fc?style=flat-square&logo=github&logoColor=black)](https://github.com/parthbhuyan) |
-| **⚡ Next-Gen Edge AI** | Research on ultra-efficient AI semiconductor architectures for edge devices | `Python` `Research` `AI/ML` `Hardware` | [![Repo](https://img.shields.io/badge/REPO-ff0055?style=flat-square&logo=github&logoColor=black)](https://github.com/parthbhuyan) |
-
-</div>
-
----
-
-<!-- EXPERIENCE -->
-## 💼 `>> FIELD OPERATIONS`
-
-```yaml
-╔════════════════════════════════════════════════════════════╗
-║              OPERATIONAL EXPERIENCE LOG                    ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [MISSION 1] Mobile App Development Intern                 ║
-║  ├── Agency   : NIELIT Tezpur (MeitY)                      ║
-║  ├── Period   : Apr 2025 – May 2025                        ║
-║  ├── Status   : ✅ COMPLETED                               ║
-║  └── Notes    : WBL Level-1 | Govt. of India project       ║
-║                                                            ║
-║  [MISSION 2] Cybersecurity Intern                          ║
-║  ├── Agency   : Nandanam, Chennai                          ║
-║  ├── Period   : Jan 2024 – Jul 2024                        ║
-║  ├── Status   : ✅ COMPLETED                               ║
-║  └── Notes    : Digital defense | Pen Testing track        ║
-║                                                            ║
-║  [SPECIAL OPS] Paper Presenter @ ICAMLDS 2023              ║
-║  ├── Topic    : Ethical Considerations in AI & Data Sci    ║
-║  └── Venue    : Assam down town University                 ║
-║                                                            ║
-║  [CHALLENGE] Indian Army Cyber Hackathon 2021              ║
-║  └── Event    : Sainya Ranakshetram                        ║
-╚════════════════════════════════════════════════════════════╝
+Cybersecurity & Full Stack Developer based in Assam, India.
+Focused on penetration testing, ethical hacking, and secure server architecture.
+Experienced in building web and mobile applications end-to-end.
+Presented research on AI ethics at ICAMLDS 2023 · Indian Army Cyber Hackathon participant.
+Currently pursuing MCA at Rajiv Gandhi University (2023–2025).
 ```
 
 ---
 
-<!-- EDUCATION -->
-## 🎓 `>> TRAINING PROTOCOLS`
+<br>
+
+### `$ cat tech-stack.json`
+
+<br>
 
 <div align="center">
 
-| 🏫 INSTITUTION | 📜 DEGREE | 📅 YEAR |
-|:---:|:---:|:---:|
-| 🎓 Rajiv Gandhi University, Arunachal Pradesh | **MCA – Master of Computer Application** | 2023 – 2025 |
-| 🎓 Gauhati University, Guwahati | **BCA – Bachelor of Computer Application** | 2019 – 2022 |
-| 📚 Govt. Boy's H.S. School, Nagaon | Intermediate (Commerce) | 2017 – 2019 |
-| 📚 Rupahi H.S. School | Matriculation | 2015 – 2016 |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=818CF8)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=818CF8)&nbsp;
+![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=818CF8)&nbsp;
+![C++](https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=818CF8)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=818CF8)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=818CF8)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=818CF8)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=818CF8)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=818CF8)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=818CF8)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=818CF8)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=818CF8)
+
+**Security & Cloud**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0F172A?style=flat-square&logo=kalilinux&logoColor=818CF8)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=818CF8)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=818CF8)&nbsp;
+![Pen Testing](https://img.shields.io/badge/Penetration%20Testing-0F172A?style=flat-square&logo=hackthebox&logoColor=818CF8)&nbsp;
+![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=flat-square&logo=wireshark&logoColor=818CF8)
 
 </div>
 
+<br>
+
 ---
 
-<!-- SNAKE CONTRIBUTION -->
-## 🐍 `>> CONTRIBUTION SNAKE`
+### `$ git log --projects`
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🌱 GreenGen**
+<br><sub>Blockchain-powered waste management platform. Decentralized infrastructure for sustainable resource tracking and eco-incentive systems.</sub>
+<br><br>
+![Blockchain](https://img.shields.io/badge/-Blockchain-0F172A?style=flat-square&logoColor=818CF8)
+![React](https://img.shields.io/badge/-React-0F172A?style=flat-square&logoColor=818CF8)
+![Node.js](https://img.shields.io/badge/-Node.js-0F172A?style=flat-square&logoColor=818CF8)
+
+</td>
+<td width="33%" valign="top">
+
+**🌿 Herb Detection AI**
+<br><sub>ML-based medicinal plant identification using computer vision. Trained on regional flora with high-accuracy classification models.</sub>
+<br><br>
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logoColor=818CF8)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0F172A?style=flat-square&logoColor=818CF8)
+![OpenCV](https://img.shields.io/badge/-OpenCV-0F172A?style=flat-square&logoColor=818CF8)
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Edge AI Research**
+<br><sub>Research on ultra-efficient AI semiconductor architectures. Optimizing inference workloads for next-generation edge computing devices.</sub>
+<br><br>
+![Research](https://img.shields.io/badge/-Research-0F172A?style=flat-square&logoColor=818CF8)
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logoColor=818CF8)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-0F172A?style=flat-square&logoColor=818CF8)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### `$ cat certifications.txt`
+
+<br>
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|:---|:---|:---:|
+| 🏅 AWS Certified Security – Specialty | Amazon Web Services via Infosys Springboard | 2024 |
+| 🏅 AWS Knowledge: Cloud Essentials | Amazon Web Services | 2024 |
+| 🏅 Cybersecurity Analyst Job Simulation | Tata Consultancy Services (TCS) | 2024 |
+| 🏅 Career Essentials in Cybersecurity | Microsoft & LinkedIn | 2023 |
+| 🏅 Ethical Hacking & Cybersecurity | CISCO & European Open University | 2023 |
+| 🏅 Google Analytics Certified | Google | 2023 |
+| 🏅 Indian Army Cyber Hackathon | Sainya Ranakshetram | 2021 |
+
+</div>
+
+<br>
+
+---
+
+### `$ git stats --global`
+
+<br>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=parthbhuyan&show_icons=true&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=818CF8&text_color=94A3B8&ring_color=818CF8&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhuyan&layout=compact&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=94A3B8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthbhuyan&theme=dark&background=0F172A&border=1E293B&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=475569&sideNums=E2E8F0&currStreakNum=E2E8F0&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthbhuyan&bg_color=0F172A&color=818CF8&line=818CF8&point=E2E8F0&area=true&area_color=1E293B&hide_border=true&title_color=818CF8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br>
+
+---
+
+### `$ ls ./trophies`
+
+<br>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=parthbhuyan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+
+---
+
+### `$ cat experience.log`
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Mobile App Development Intern**
+<br>NIELIT Tezpur · *Apr – May 2025*
+<br><sub>Completed Work Based Learning (WBL) Level-1. Executed development projects under the Ministry of Electronics & IT, Government of India.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Cybersecurity Intern**
+<br>Nandanam, Chennai · *Jan – Jul 2024*
+<br><sub>Focused on practical digital defense. Gained hands-on experience in cyber threat analysis, pen testing methodology, and security research workflows.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### `$ cat education.md`
+
+<br>
+
+<div align="center">
+
+**MCA — Master of Computer Application** &nbsp;·&nbsp; Rajiv Gandhi University, Arunachal Pradesh &nbsp;·&nbsp; `2023–2025`
+
+**BCA — Bachelor of Computer Application** &nbsp;·&nbsp; Gauhati University, Guwahati &nbsp;·&nbsp; `2019–2022`
+
+</div>
+
+<br>
+
+---
+
+### `$ ./snake --watch contributions`
+
+<br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/parthbhuyan/parthbhuyan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
----
-
-<!-- CONNECT -->
-## 🌐 `>> ESTABLISH CONNECTION`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/partha-bhuyan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00fff5?style=for-the-badge&logo=firefox&logoColor=black)](https://parthbhuyan.github.io/)
-[![Google Dev](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/parthbhuyan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:parthabhuyan@myyahoo.com)
-
-</div>
+<br>
 
 ---
 
-<!-- QUOTE -->
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+<sub>*"The quieter you become, the more you are able to hear."* — Kali Linux motto</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer&fontColor=94A3B8&fontSize=13&text=Open%20to%20work%20%C2%B7%20Assam%2C%20India%20%C2%B7%20parthabhuyan%40myyahoo.com&fontAlignY=65&descAlignY=85" width="100%"/>
 
 </div>
-
-<!-- ANIMATED FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d0221,50:0a3d62,100:00fff5&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Let's%20build%20secure%20technology%20together%20%F0%9F%9A%80&fontSize=16&fontColor=00fff5&animation=fadeIn&fontAlignY=65" width="100%"/>
