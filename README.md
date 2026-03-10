@@ -337,7 +337,7 @@ root@partha-lab:~$ security_stack --list-all
 
 ### 🏆 GitHub Trophy Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=parthbhuyan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=parthbhuyan&theme=tokyonight&column=4&margin-w=15&margin-h=15" width="95%" />
 
 </div>
 
