@@ -629,7 +629,7 @@ while (alive) {
 <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2e" />
 </a>
 &nbsp;
-<a href="https://developers.google.com/profile/u/parthbhuyan">
+<a href="https://developers.google.com/profile/u/parthabhuyan">
 <img src="https://img.shields.io/badge/Google_Dev-My_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a2e" />
 </a>
 
